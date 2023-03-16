@@ -1,0 +1,917 @@
+﻿id,date,nb_page,ville,wkt,imprimeur,nb_gravures,type_texte
+Moreno_001,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Sainetes
+Moreno_002,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Coplas
+Moreno_003,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Pasillos
+Moreno_004,1870-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Sainetes
+Moreno_005,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Coplas
+Moreno_006,1851-01-01,2,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Villancicos
+Moreno_007,1858-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Romances
+Moreno_008,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_009,s.a.,4,Carmona,POINT(-5.642222 37.471111),Manuel Belloso,1,
+Moreno_010,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_011,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_012,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Sátiras
+Moreno_013,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_014,1859-01-01,2,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Cantos religiosos
+Moreno_015,s.a.,2,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Cantos religiosos
+Moreno_016,1855-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Testamentos
+Moreno_017,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_018,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,4,Sátiras
+Moreno_019,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,
+Moreno_020,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Relaciones
+Moreno_021,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Matracas
+Moreno_022,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_023,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_024,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_025,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Coplas
+Moreno_026,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_027,1858-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_028,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_029,1853-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Pasillos
+Moreno_030,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Cartas
+Moreno_031,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_032,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_033,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Pasillos
+Moreno_034,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Pasillos
+Moreno_035,1854-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Coplas
+Moreno_036,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_037,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Chistes
+Moreno_038,1865-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Desposorios
+Moreno_039,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_040,1858-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Romances
+Moreno_041,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,
+Moreno_042,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Coplas
+Moreno_043,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Trovos
+Moreno_044,1854-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Trovos
+Moreno_045,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_046,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Historias
+Moreno_047,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Pasillos
+Moreno_048,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Chistes
+Moreno_049,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Chistes
+Moreno_050,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Coloquios
+Moreno_051,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones de sucesos
+Moreno_052,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,
+Moreno_053,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Cartillas
+Moreno_054,1856-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones de sucesos
+Moreno_055,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Relaciones de sucesos
+Moreno_056,1864-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Sainetes
+Moreno_057,1858-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_058,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Coplas
+Moreno_059,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,
+Moreno_060,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_061,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_062,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Sátiras
+Moreno_063,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Relaciones
+Moreno_064,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Pasillos
+Moreno_065,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Relaciones
+Moreno_066,1858-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_067,1860-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Sátiras
+Moreno_068,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_069,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_070,1858-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_071,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_072,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Pasillos
+Moreno_073,1855-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_074,1858-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_075,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_076,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_077,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones de sucesos
+Moreno_078,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Pasillos
+Moreno_079,1858-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_080,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_081,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Diálogos
+Moreno_082,1850-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Chascos
+Moreno_083,1865-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Chascos
+Moreno_084,1858-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones de sucesos
+Moreno_085,1854-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Canciones
+Moreno_086,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Oraciones
+Moreno_087,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Oraciones
+Moreno_088,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Pasillos
+Moreno_089,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_090,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Canciones
+Moreno_091,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Coplas
+Moreno_092,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_093,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_094,1849-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Entremeses
+Moreno_095,1849-01-01,16,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Sainetes
+Moreno_096,1849-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Entremeses
+Moreno_097,1849-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Entremeses
+Moreno_098,1850-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Sainetes
+Moreno_099,1850-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Sainetes
+Moreno_100,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_101,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,
+Moreno_102,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_103,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Relaciones de sucesos
+Moreno_104,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones de sucesos
+Moreno_105,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,
+Moreno_106,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,
+Moreno_107,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Cartas
+Moreno_108,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Coplas
+Moreno_109,1853-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Sátiras
+Moreno_110,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_111,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Trovos
+Moreno_112,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_113,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Trovos
+Moreno_114,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Sátiras
+Moreno_115,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Sátiras
+Moreno_116,1864-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Sainetes
+Moreno_117,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Romances
+Moreno_118,1856-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_119,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Coplas
+Moreno_120,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Chistes
+Moreno_121,1856-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones de sucesos
+Moreno_122,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones de sucesos
+Moreno_123,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_124,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Sainetes
+Moreno_125,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Canciones
+Moreno_126,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Canciones
+Moreno_127,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_128,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Diálogos
+Moreno_129,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Romances
+Moreno_130,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_131,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_132,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_133,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_134,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_135,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_136,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_137,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Cartas
+Moreno_138,1852-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Trovos
+Moreno_139,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Trovos
+Moreno_140,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Trovos
+Moreno_141,1851-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_142,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Romances
+Moreno_143,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_144,1850-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Entremeses
+Moreno_145,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_146,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Sainetes
+Moreno_147,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_148,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Exhortación
+Moreno_149,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Pasillos
+Moreno_150,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Oraciones
+Moreno_151,1861-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Romances
+Moreno_152,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Oraciones
+Moreno_153,1854-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_154,1864-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_155,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Sátiras
+Moreno_156,1854-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_157,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Sainetes
+Moreno_158,1854-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,4,Romances
+Moreno_159,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Romances
+Moreno_160,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Relaciones
+Moreno_161,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Oraciones
+Moreno_162,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_163,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_164,1854-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_165,1865-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Quintillas
+Moreno_166,1854-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_167,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_168,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_169,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Sainetes
+Moreno_170,1855-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Romances
+Moreno_171,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Cartas
+Moreno_172,1874-01-01,8,Carmona,POINT(-5.642222 37.471111),Manuel Belloso et Moreno (hijo),1,Romances
+Moreno_173,1856-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Romances
+Moreno_174,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_175,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Calendarios
+Moreno_176,1865-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_177,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_178,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Pasillos
+Moreno_179,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_180,1853-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_181,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_182,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_183,1850-01-01,16,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Sainetes
+Moreno_184,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_185,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Oraciones
+Moreno_186,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Oraciones
+Moreno_187,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_188,1857-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_189,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_190,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Romances
+Moreno_191,1858-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Romances
+Moreno_192,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Sainetes
+Moreno_193,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Coloquios
+Moreno_194,1865-01-01,16,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Sainetes
+Moreno_195,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_196,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_197,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Chascos
+Moreno_198,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,4,Pasillos
+Moreno_199,1865-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Sainetes
+Moreno_200,1853-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_201,1854-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_202,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Diálogos
+Moreno_203,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Canciones
+Moreno_204,1861-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_205,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_206,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_207,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_208,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Décimas glosadas
+Moreno_209,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Relaciones de sucesos
+Moreno_210,1856-01-01,12,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Relaciones de sucesos
+Moreno_211,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Testamentos
+Moreno_212,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_213,1860-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_214,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Chascos
+Moreno_215,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_216,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_217,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Sátiras
+Moreno_218,1856-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Décimas
+Moreno_219,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Sátiras
+Moreno_220,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Sátiras
+Moreno_221,1861-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Romances
+Moreno_222,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Romances
+Moreno_223,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Pasillos
+Moreno_224,1861-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_225,1854-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_226,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Cartas
+Moreno_227,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_228,1854-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Jácaras
+Moreno_229,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_230,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_231,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_232,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_233,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_234,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Relaciones
+Moreno_235,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_236,1858-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Romances
+Moreno_237,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Romances
+Moreno_238,1854-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_239,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_240,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Alabanzas
+Moreno_241,1856-01-01,2,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Coplas
+Moreno_242,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_243,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_244,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Glosas
+Moreno_245,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Canciones
+Moreno_246,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Canciones
+Moreno_247,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Rondeñas
+Moreno_248,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Canciones
+Moreno_249,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Trovos
+Moreno_250,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Décimas glosadas
+Moreno_251,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Canciones
+Moreno_252,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Testamentos
+Moreno_253,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Canciones
+Moreno_254,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Canciones
+Moreno_255,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Coplas
+Moreno_256,1865-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_257,1858-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_258,1867-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Sainetes
+Moreno_259,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Coplas
+Moreno_260,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,
+Moreno_261,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_262,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_263,1866-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Sainetes
+Moreno_264,1861-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_265,1866-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_266,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Relaciones
+Moreno_267,1866-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_268,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_269,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_270,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_271,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_272,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_273,1859-01-01,16,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Sainetes
+Moreno_274,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Trovos
+Moreno_275,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_276,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_277,s.a.,32,Carmona,POINT(-5.642222 37.471111),José María Moreno,8,Relaciones
+Moreno_278,1860-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Décimas
+Moreno_279,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Relaciones
+Moreno_280,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Pasillos
+Moreno_281,1855-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_282,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Pasillos
+Moreno_283,1865-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Chistes
+Moreno_284,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_285,1860-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,4,Historias
+Moreno_286,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Trovos
+Moreno_287,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_288,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Pasillos
+Moreno_289,1856-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Relaciones
+Moreno_290,1859-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Canciones
+Moreno_291,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Sainetes
+Moreno_292,1861-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_293,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_294,1861-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_295,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Trovos
+Moreno_296,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_297,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,4,Canciones
+Moreno_298,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Romances
+Moreno_299,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Romances
+Moreno_300,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_301,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_302,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_303,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_304,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_305,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_306,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_307,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Trovos
+Moreno_308,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_309,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Trovos
+Moreno_310,1860-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_311,1861-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_312,1860-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Pasillos
+Moreno_313,1864-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Décimas
+Moreno_314,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,4,Relaciones
+Moreno_315,1857-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Décimas
+Moreno_316,1861-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_317,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_318,1849-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Descripciones
+Moreno_319,1862-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Historias
+Moreno_320,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_321,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,4,Relaciones
+Moreno_322,1866-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,4,Relaciones
+Moreno_323,1861-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Seguidillas
+Moreno_324,1861-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Seguidillas
+Moreno_325,1861-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Jácaras
+Moreno_326,1859-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_327,1860-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Relaciones
+Moreno_328,1860-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Sainetes
+Moreno_329,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Coplas
+Moreno_330,1864-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Coplas
+Moreno_331,1861-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Relaciones
+Moreno_332,1861-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Pasillos
+Moreno_333,1861-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_334,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_335,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Composiciones
+Moreno_336,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Diálogos
+Moreno_337,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,
+Moreno_338,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Décimas
+Moreno_339,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Composiciones
+Moreno_340,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_341,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_342,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,
+Moreno_343,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Composiciones
+Moreno_344,1861-01-01,2,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Oraciones
+Moreno_345,1854-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Décimas
+Moreno_346,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Trovos
+Moreno_347,1861-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Coplas
+Moreno_348,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_349,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_350,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Romances
+Moreno_351,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Sátiras
+Moreno_352,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Pasillos
+Moreno_353,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Pasillos
+Moreno_354,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Composiciones
+Moreno_355,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Oraciones
+Moreno_356,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_357,s.a.,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_358,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_359,1864-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_360,1865-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_361,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Romances
+Moreno_362,1865-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_363,1865-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_364,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,1,Relaciones
+Moreno_365,1864-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,0,Romances
+Moreno_366,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Sátiras
+Moreno_367,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Sátiras
+Moreno_368,1863-01-01,8,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Romances
+Moreno_369,1858-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Romances
+Moreno_370,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_371,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,3,Coplas
+Moreno_372,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Pasillos
+Moreno_373,1865-01-01,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Relaciones
+Moreno_374,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,2,Décimas
+Varios_001,s.a.,4,Madrid,POINT(-3.7025 40.416667),s.n.,,
+Varios_002,s.a.,4,Ocaña,POINT(-3.4966666666667 39.956944444444),José Sánchez del Peral,,
+Varios_003,s.a.,2,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_004,s.a.,2,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_005,s.a.,4,Reus,POINT(1.10871 41.15487),La viuda de Joan Grau,,
+Varios_006,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_007,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_008,1871-01-01,4,Alcoy,POINT(-0.47361111111111 38.698333333333),José Martí,,
+Varios_009,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_010,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprentas Industrias Gráficas Olympia,,
+Varios_011,s.a.,4,s.l.,,s.n.,,
+Varios_012,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_013,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_014,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_015,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_016,1887-01-01,4,Córdoba,POINT(-4.766667 37.883333),Imprenta del Diario de Córdoba,,
+Varios_017,1887-01-01,4,Córdoba,POINT(-4.766667 37.883333),Imprenta del Diario de Córdoba,,
+Varios_018,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_019,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,,
+Varios_020,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_021,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_022,s.a.,4,s.l.,,Imprenta del Diario,,
+Varios_023,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_024,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprenta Peninsular,,
+Varios_025,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_026,1876-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_027,1869-01-01,4,Barcelona,POINT(2.176944 41.3825),Los hijos de Domenech,,
+Varios_028,1876-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_029,s.a.,4,Barcelona,POINT(2.176944 41.3825),Antonio Bosch,,
+Varios_030,1864-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_031,s.a.,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_032,s.a.,4,Barcelona,POINT(2.176944 41.3825),T. Gaspar,,
+Varios_033,s.a.,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_034,1861-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_035,1866-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_036,1867-01-01,4,Barcelona,POINT(2.176944 41.3825),Los hijos de Domenech,,
+Varios_037,1853-01-01,4,Barcelona,POINT(2.176944 41.3825),Imprenta de Vilaregut y Compañía,,
+Varios_038,1881-01-01,4,Barcelona,POINT(2.176944 41.3825),Tipografía Española,,
+Varios_039,s.a.,4,Barcelona,POINT(2.176944 41.3825),Tipografía Española,,
+Varios_040,s.a.,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_041,1864-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_042,s.a.,4,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_043,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_044,s.a.,4,s.l.,,Tipografía Valencia,,
+Varios_045,1822-01-01,2,Sevilla,POINT(-5.983333 37.383333),María del Carmen Padrino,,
+Varios_046,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprenta García,,
+Varios_047,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_048,s.a.,4,Pamplona,POINT(-1.65 42.816667),Longas y Ripa,,
+Varios_049,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprenta Peninsular,,
+Varios_050,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los sucesores de Antonio Bosch,,
+Varios_051,s.a.,4,s.l.,,s.n.,,
+Varios_052,1867-01-01,8,Alcoy,POINT(-0.47361111111111 38.698333333333),José Martí,,
+Varios_053,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprentas Industrias gráficas Olympia,,
+Varios_054,1845-01-01,4,Barcelona,POINT(2.176944 41.3825),José Lluch,,
+Varios_055,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_056,1858-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_057,s.a.,4,s.l.,,s.n.,,
+Varios_058,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la viuda Pla,,
+Varios_059,s.a.,4,Reus,POINT(1.10871 41.15487),Imprenta La Fleca,,
+Varios_060,1866-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_061,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_062,s.a.,4,Palma de Mallorca,POINT(2.649722 39.566667),s.n.,,
+Varios_063,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_064,s.a.,4,Barcelona,POINT(2.176944 41.3825),s.n.,,
+Varios_065,s.a.,4,Barcelona,POINT(2.176944 41.3825),Tipografía Española,,
+Varios_066,s.a.,4,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_067,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_068,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_069,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_070,s.a.,4,Barcelona,POINT(2.176944 41.3825),Antonio Bosch,,
+Varios_071,1850-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_072,1849-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_073,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprenta Peninsular,,
+Varios_074,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_075,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_076,1845-01-01,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal ,,
+Varios_077,s.a.,4,Reus,POINT(1.10871 41.15487),María Aléu e hijos,,
+Varios_078,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_079,1853-01-01,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal ,,
+Varios_080,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_081,s.a.,4,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_082,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_083,s.a.,4,Barcelona,POINT(2.176944 41.3825),Ignacio Estivill,,
+Varios_084,s.a.,4,Barcelona,POINT(2.176944 41.3825),Llorens,,
+Varios_085,1854-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_086,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_087,s.a.,4,s.l.,,s.n.,,
+Varios_088,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Vidal y Angel Camí,,
+Varios_089,1842-01-01,4,Valencia,POINT(-0.376389 39.47),Ildefonso Mompié de Montegudo,,
+Varios_090,1879-01-01,4,Barcelona,POINT(2.176944 41.3825),Tipografía Española,,
+Varios_091,s.a.,4,s.l.,,s.n.,,
+Varios_092,1882-01-01,4,Reus,POINT(1.10871 41.15487),Imprenta Española,,
+Varios_093,s.a.,4,Madrid,POINT(-3.7025 40.416667),Hernando,,
+Varios_094,s.a.,4,Barcelona,POINT(2.176944 41.3825),Antonio de Llorens,,
+Varios_095,s.a.,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_096,1851-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_097,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_098,s.a.,2,Sevilla,POINT(-5.983333 37.383333),La Imprenta de Aragón y Compañía,,
+Varios_099,s.a.,4,Muntaner,,Imprenta Alsina y Clós,,
+Varios_100,s.a.,4,Córdoba,POINT(-4.766667 37.883333),Luis Ramos y Coria,,
+Varios_101,s.a.,4,Barcelona,POINT(2.176944 41.3825),Juan Llorens ,,
+Varios_102,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal,,
+Varios_103,1886-01-01,4,Barcelona,POINT(2.176944 41.3825),Tipografía Española,,
+Varios_104,s.a.,8,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_105,s.a.,4,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_106,s.a.,2,Barcelona,POINT(2.176944 41.3825),Llorens,,
+Varios_107,s.a.,4,s.l.,,s.n.,,
+Varios_108,s.a.,4,Valencia,POINT(-0.376389 39.47),Augustín Laborda,,
+Varios_109,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_110,s.a.,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_111,s.a.,4,Barcelona,POINT(2.176944 41.3825),s.n.,,
+Varios_112,s.a.,4,Játiva,POINT(-0.519154 38.988729),Blas Bellver,,
+Varios_113,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_114,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_115,s.a.,4,Barcelona,POINT(2.176944 41.3825),s.n.,,
+Varios_116,1848-01-01,8,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_117,s.a.,8,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_118,1844-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_119,s.a.,2,Barcelona,POINT(2.176944 41.3825),Juan Llorens ,,
+Varios_120,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la viuda Pla,,
+Varios_121,s.a.,4,Sevilla,POINT(-5.983333 37.383333),La Imprenta de Aragón y Compañía,,
+Varios_122,s.a.,8,Barcelona,POINT(2.176944 41.3825),s.n.,,
+Varios_123,s.a.,2,Manresa,POINT(1.829167 41.726389),Estampa de Pau Roca,,
+Varios_124,s.a.,4,Barcelona,POINT(2.176944 41.3825),Ignacio Estivill,,
+Varios_125,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal,,
+Varios_126,1843-01-01,4,Játiva,POINT(-0.519154 38.988729),Blas Bellver,,
+Varios_127,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_128,s.a.,4,Barcelona,POINT(2.176944 41.3825),M. Borrás,,
+Varios_129,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_130,1852-01-01,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal,,
+Varios_131,1849-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_132,s.a.,8,Reus,POINT(1.10871 41.15487),Imprenta La Fleca ,,
+Varios_133,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_134,s.a.,4,Madrid,POINT(-3.7025 40.416667),Hernando,,
+Varios_135,s.a.,4,Madrid,POINT(-3.7025 40.416667),Hernando,,
+Varios_136,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_137,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_138,s.a.,4,s.l.,,s.n.,,
+Varios_139,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprenta Inglesa,,
+Varios_140,s.a.,4,Barcelona,POINT(2.176944 41.3825),Juan Jolis,,
+Varios_141,s.a.,2,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_142,1866-01-01,4,Reus,POINT(1.10871 41.15487),Narciso Roca,,
+Varios_143,s.a.,2,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_144,1854-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_145,1856-01-01,4,Madrid,POINT(-3.7025 40.416667),s.n.,,
+Varios_146,s.a.,4,Barcelona,POINT(2.176944 41.3825),Llorens,,
+Varios_147,1868-01-01,4,Reus,POINT(1.10871 41.15487),Narciso Roca,,
+Varios_148,1873-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_149,1843-01-01,4,Valencia,POINT(-0.376389 39.47),José Mateu Cervera,,
+Varios_150,1847-01-01,4,Játiva,POINT(-0.519154 38.988729),Blas Bellver,,
+Varios_151,1847-01-01,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal,,
+Varios_152,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_153,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_154,s.a.,4,Valencia,POINT(-0.376389 39.47),Manuel Piles y Castro,,
+Varios_155,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_156,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_157,s.a.,4,Barcelona,POINT(2.176944 41.3825),Llorens,,
+Varios_158,s.a.,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_159,1854-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_160,s.a.,4,Tarragona,POINT(1.24532 41.11868),E. Pamies,,
+Varios_161,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprenta Tipografía M. García,,
+Varios_162,s.a.,4,Barcelona,POINT(2.176944 41.3825),Ignacio Estivill,,
+Varios_163,s.a.,2,Barcelona,POINT(2.176944 41.3825),Llorens,,
+Varios_164,1872-01-01,4,Madrid,POINT(-3.7025 40.416667),José Noguera,,
+Varios_165,s.a.,2,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_166,s.a.,2,Tortosa,POINT(0.521111 40.8125),La viuda e hijos de J. A. Ferreres,,
+Varios_167,s.a.,4,Reus,POINT(1.10871 41.15487),Imprenta La Fleca ,,
+Varios_168,s.a.,4,Córdoba,POINT(-4.766667 37.883333),Rafael García Rodríguez,,
+Varios_169,s.a.,4,Lorca,POINT(-1.7 37.683333333333),J. B. Campoy,,
+Varios_170,s.a.,8,Córdoba,POINT(-4.766667 37.883333),Juan García Rodríguez de la Torre,,
+Varios_171,1848-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_172,1861-01-01,4,Barcelona,POINT(2.176944 41.3825),Joseph Tauló,,
+Varios_173,1860-01-01,4,Barcelona,POINT(2.176944 41.3825),Joseph Gaspar,,
+Varios_174,1853-01-01,4,Barcelona,POINT(2.176944 41.3825),J. Gorgas,,
+Varios_175,s.a.,4,s.l.,,s.n.,,
+Varios_176,s.a.,4,Barcelona,POINT(2.176944 41.3825),Tipografía Española,,
+Varios_177,s.a.,8,Barcelona,POINT(2.176944 41.3825),F. Granett,,
+Varios_178,s.a.,4,Palma de Mallorca,POINT(2.649722 39.566667),B. Rotger,,
+Varios_179,s.a.,4,Barcelona,POINT(2.176944 41.3825),T. Gaspar,,
+Varios_180,1877-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_181,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprentas Industrias gráficas Olympia,,
+Varios_183,s.a.,4,Barcelona,POINT(2.176944 41.3825),F. Vallés,,
+Varios_184,s.a.,4,Barcelona,POINT(2.176944 41.3825),Sánchez,,
+Varios_185,s.a.,4,s.l.,,s.n.,,
+Varios_186,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal,,
+Varios_187,s.a.,4,Reus,POINT(1.10871 41.15487),Imprenta La Fleca ,,
+Varios_188,1851-01-01,4,Barcelona,POINT(2.176944 41.3825),Ignacio Estivill,,
+Varios_189,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la viuda Pla,,
+Varios_190,1848-01-01,4,Barcelona,POINT(2.176944 41.3825),F. Vallés,,
+Varios_191,1863-01-01,4,Barcelona,POINT(2.176944 41.3825),Cristóbal Miró,,
+Varios_192,1854-01-01,4,Barcelona,POINT(2.176944 41.3825),Ignacio Estivill,,
+Varios_193,s.a.,1,Barcelona,POINT(2.176944 41.3825),Imprenta Inglesa ,,
+Varios_194,s.a.,4,Reus,POINT(1.10871 41.15487),Tosquellas y Zamora,,
+Varios_195,s.a.,4,Reus,POINT(1.10871 41.15487),Tosquellas y Zamora,,
+Varios_196,s.a.,4,Reus,POINT(1.10871 41.15487),N. Roca.,,
+Varios_197,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_198,s.a.,4,Barcelona,POINT(2.176944 41.3825),Llorens,,
+Varios_199,s.a.,4,Reus,POINT(1.10871 41.15487),Imprenta La Fleca,,
+Varios_200,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprenta Rakú de Manuel García,,
+Varios_201,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_202,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_203,s.a.,2,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_204,1851-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_205,1865-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_206,s.a.,4,Barcelona,POINT(2.176944 41.3825),Llorens,,
+Varios_207,1860-01-01,4,Barcelona,POINT(2.176944 41.3825),Imprenta de S. Pere,,
+Varios_208,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_209,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_210,s.a.,2,Barcelona,POINT(2.176944 41.3825),Imprenta Catalana,,
+Varios_211,s.a.,2,Barcelona,POINT(2.176944 41.3825),Imprenta Catalana ,,
+Varios_212,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_213,s.a.,4,Barcelona,POINT(2.176944 41.3825),Tipografía Española,,
+Varios_214,s.a.,4,s.l.,,B. Rotger,,
+Varios_215,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal,,
+Varios_216,s.a.,4,Barcelona,POINT(2.176944 41.3825),S. Rafael,,
+Varios_217,s.a.,2,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_218,s.a.,4,Reus,POINT(1.10871 41.15487),Imprenta La Fleca,,
+Varios_219,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_220,s.a.,8,Barcelona,POINT(2.176944 41.3825),F. Vallés,,
+Varios_221,s.a.,4,Barcelona,POINT(2.176944 41.3825),Tipografía La Popular,,
+Varios_222,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_223,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprentas Industrias gráficas Olympia,,
+Varios_224,1847-01-01,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal,,
+Varios_225,s.a.,4,Reus,POINT(1.10871 41.15487),Imprenta La Fleca,,
+Varios_226,s.a.,4,s.l.,,Ramírez y Compañía,,
+Varios_227,1852-01-01,4,Barcelona,POINT(2.176944 41.3825),José Taulo,,
+Varios_228,1858-01-01,4,Barcelona,POINT(2.176944 41.3825),José Torras,,
+Varios_229,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_230,1852-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_231,s.a.,4,Barcelona,POINT(2.176944 41.3825),S. Rafael,,
+Varios_232,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_233,s.a.,4,Palma de Mallorca,POINT(2.649722 39.566667),B. Rotger,,
+Varios_234,s.a.,4,Tarragona,POINT(1.24532 41.11868),E. Pamies,,
+Varios_235,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_236,s.a.,4,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_237,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_238,s.a.,4,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_239,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_240,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_241,s.a.,2,Sevilla,POINT(-5.983333 37.383333),La Imprenta de Aragón y Compañía,,
+Varios_242,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_243,s.a.,4,Barcelona,POINT(2.176944 41.3825),Antonio de Llorens,,
+Varios_244,1822-01-01,2,Sevilla,POINT(-5.983333 37.383333),María del Carmen Padrino,,
+Varios_245,s.a.,8,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_246,s.a.,8,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_247,s.a.,4,Barcelona,POINT(2.176944 41.3825),Luis Raynaud,,
+Varios_248,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_249,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprenta Palou,,
+Varios_250,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprentas Industrias gráficas Olympia,,
+Varios_251,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_252,s.a.,4,s.l.,,José Tous,,
+Varios_253,s.a.,4,Palma de Mallorca,POINT(2.649722 39.566667),La viuda e hijos de Galabert,,
+Varios_254,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_255,s.a.,4,s.l.,,s.n.,,
+Varios_256,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_257,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_258,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,,
+Varios_259,1866-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_260,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_261,s.a.,4,s.l.,,s.n.,,
+Varios_262,s.a.,4,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_263,s.a.,4,Barcelona,POINT(2.176944 41.3825),Llorens,,
+Varios_264,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_265,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_266,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprenta Peninsular,,
+Varios_267,s.a.,4,Murcia,POINT(-1.130278 37.986111),La imprenta de Sellés,,
+Varios_268,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los hijos de Domenech,,
+Varios_269,1854-01-01,4,Barcelona,POINT(2.176944 41.3825),José Taulo,,
+Varios_270,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_271,s.a.,4,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_272,s.a.,1,Reus,POINT(1.10871 41.15487),Imprenta Española,,
+Varios_273,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_274,s.a.,4,Madrid,POINT(-3.7025 40.416667),Hernando,,
+Varios_275,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_276,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_277,s.a.,4,Valladolid,POINT(-4.728561 41.651981),Julian Pastor,,
+Varios_278,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_279,s.a.,4,Logroño,POINT(-2.445556 42.47),Imprenta de Brieva,,
+Varios_280,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal,,
+Varios_281,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_282,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_283,s.a.,2,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_284,s.a.,2,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_285,s.a.,4,Madrid,POINT(-3.7025 40.416667),Imprenta Universal,,
+Varios_286,s.a.,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_287,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_288,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_289,s.a.,4,s.l.,,s.n.,,
+Varios_290,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_291,s.a.,4,Barcelona,POINT(2.176944 41.3825),Luis Raynaud,,
+Varios_292,s.a.,4,Barcelona,POINT(2.176944 41.3825),Llorens,,
+Varios_293,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_294,1858-01-01,4,Barcelona,POINT(2.176944 41.3825),Ignacio Estivill,,
+Varios_295,1862-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_296,1862-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_297,s.a.,4,Barcelona,POINT(2.176944 41.3825),Tipografía Española,,
+Varios_298,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprenta Peninsular,,
+Varios_299,s.a.,4,Barcelona,POINT(2.176944 41.3825),s.n.,,
+Varios_300,1878-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_301,s.a.,32,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_302,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_303,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_304,1879-01-01,4,Barcelona,POINT(2.176944 41.3825),Tipografía Española,,
+Varios_305,1861-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_306,s.a.,4,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_307,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_308,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_309,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_310,s.a.,4,s.l.,,s.n.,,
+Varios_311,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_312,s.a.,4,s.l.,,V. Berdós,,
+Varios_313,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal,,
+Varios_314,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_315,1862-01-01,4,Barcelona,POINT(2.176944 41.3825),Juan Llorens ,,
+Varios_316,s.a.,4,Barcelona,POINT(2.176944 41.3825),S. Rafael,,
+Varios_317,s.a.,4,Baeza,POINT(-3.466667 37.983333),Imprenta de la Comisión general de Libros,,
+Varios_318,s.a.,4,Madrid,POINT(-3.7025 40.416667),Hernando,,
+Varios_319,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_320,s.a.,4,s.l.,,s.n.,,
+Varios_321,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprenta Mallorca ,,
+Varios_322,1854-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_323,s.a.,4,Madrid,POINT(-3.7025 40.416667),Hernando,,
+Varios_324,s.a.,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_325,s.a.,4,Barcelona,POINT(2.176944 41.3825),Luis Raynaud,,
+Varios_326,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_327,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_328,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal,,
+Varios_329,1859-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_330,s.a.,4,Barcelona,POINT(2.176944 41.3825),Llorens,,
+Varios_331,s.a.,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_332,s.a.,4,Barcelona,POINT(2.176944 41.3825),José Taulo,,
+Varios_333,s.a.,4,Reus,POINT(1.10871 41.15487),P. Bofarull Padro,,
+Varios_334,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_335,s.a.,4,Reus,POINT(1.10871 41.15487),s.n.,,
+Varios_336,1873-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_337,1845-01-01,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal,,
+Varios_338,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_339,s.a.,4,Barcelona,POINT(2.176944 41.3825),Luis Raynaud,,
+Varios_340,s.a.,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_341,s.a.,4,Barcelona,POINT(2.176944 41.3825),Llorens,,
+Varios_342,1851-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_343,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_344,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_345,1853-01-01,4,Barcelona,POINT(2.176944 41.3825),José Taulo,,
+Varios_346,s.a.,4,Barcelona,POINT(2.176944 41.3825),Tipografía Española,,
+Varios_347,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_348,1857-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_349,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_350,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_351,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_352,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_353,s.a.,4,Palma de Mallorca,POINT(2.649722 39.566667),s.n.,,
+Varios_354,1872-01-01,4,Madrid,POINT(-3.7025 40.416667),José Noguera,,
+Varios_355,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_356,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_357,s.a.,8,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_358,s.a.,8,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_359,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_360,s.a.,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_361,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_362,1877-01-01,8,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_363,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal,,
+Varios_364,s.a.,4,Carmona,POINT(-5.642222 37.471111),José María Moreno,,
+Varios_365,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_366,s.a.,2,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_367,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal,,
+Varios_368,s.a.,4,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_369,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_370,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_371,s.a.,4,s.l.,,P. Fullá,,
+Varios_372,s.a.,4,s.l.,,s.n.,,
+Varios_373,s.a.,4,Barcelona,POINT(2.176944 41.3825),Tipografía Española,,
+Varios_374,s.a.,2,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_375,s.a.,4,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_376,s.a.,8,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_377,1853-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_378,s.a.,4,s.l.,,s.n.,,
+Varios_379,1850-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_380,s.a.,4,Barcelona,POINT(2.176944 41.3825),Juan Llorens ,,
+Varios_381,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal,,
+Varios_382,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_383,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_384,s.a.,4,s.l.,,s.n.,,
+Varios_385,1862-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_386,s.a.,4,Barcelona,POINT(2.176944 41.3825),Industrias Gráficas Olympia,,
+Varios_387,s.a.,4,Barcelona,POINT(2.176944 41.3825),Imprentas Industrias gráficas Olympia,,
+Varios_388,s.a.,4,Reus,POINT(1.10871 41.15487),s.n.,,
+Varios_389,s.a.,4,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_390,s.a.,2,s.l.,,s.n.,,
+Varios_391,s.a.,4,Barcelona,POINT(2.176944 41.3825),Tipografía Española,,
+Varios_392,s.a.,4,Barcelona,POINT(2.176944 41.3825),Antonio de Llorens,,
+Varios_393,s.a.,8,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_394,s.a.,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_395,s.a.,1,Barcelona,POINT(2.176944 41.3825),Juan Bastinos é hijo,,
+Varios_396,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_397,s.a.,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_398,s.a.,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_399,1870-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_400,s.a.,4,Palma de Mallorca,POINT(2.649722 39.566667),J. Colomar,,
+Varios_401,1859-01-01,4,Reus,POINT(1.10871 41.15487),Juan Muñoa Arrabal de Sta. Ana,,
+Varios_402,s.a.,4,Reus,POINT(1.10871 41.15487),Juan Grau,,
+Varios_403,1857-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_404,s.a.,8,Barcelona,POINT(2.176944 41.3825),Ignacio Estivill,,
+Varios_405,s.a.,8,Madrid,POINT(-3.7025 40.416667),Hernando,,
+Varios_406,1864-01-01,4,Reus,POINT(1.10871 41.15487),Imprenta de Narciso Roca,,
+Varios_407,s.a.,4,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_408,s.a.,4,Barcelona,POINT(2.176944 41.3825),Llorens,,
+Varios_409,s.a.,4,Madrid,POINT(-3.7025 40.416667),Imprenta Universal,,
+Varios_410,s.a.,4,Palma de Mallorca,POINT(2.649722 39.566667),Imprenta de Guasp,,
+Varios_411,1861-01-01,4,Reus,POINT(1.10871 41.15487),Juan Bautista Vidal,,
+Varios_412,1870-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_413,s.a.,4,Barcelona,POINT(2.176944 41.3825),Llorens,,
+Varios_414,s.a.,4,Palma de Mallorca,POINT(2.649722 39.566667),J. Colomar,,
+Varios_415,1818-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_416,s.a.,4,Barcelona,POINT(2.176944 41.3825),Jacinto Sanchez,,
+Varios_417,1864-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_418,1879-01-01,4,Barcelona,POINT(2.176944 41.3825),Tipografía Española,,
+Varios_419,1875-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_420,s.a.,4,Barcelona,POINT(2.176944 41.3825),Tipografía Española,,
+Varios_421,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_422,1881-01-01,4,Barcelona,POINT(2.176944 41.3825),Tipografía Española,,
+Varios_423,1862-01-01,4,Barcelona,POINT(2.176944 41.3825),Narciso Ramírez,,
+Varios_424,1881-01-01,4,Barcelona,POINT(2.176944 41.3825),Tipografía Española,,
+Varios_425,s.a.,32,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_426,s.a.,32,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_427,s.a.,32,Madrid,POINT(-3.7025 40.416667),Hernando,,
+Varios_428,1818-01-01,48,Sevilla,POINT(-5.983333 37.383333),La Viuda de Vázquez y Compañía,,
+Varios_429,s.a.,26,Barcelona,POINT(2.176944 41.3825),Imprenta Peninsular,,
+Varios_430,s.a.,26,Madrid,POINT(-3.7025 40.416667),s.n.,,
+Varios_431,s.a.,24,Madrid,POINT(-3.7025 40.416667),s.n.,,
+Varios_432,s.a.,24,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_433,s.a.,24,Barcelona,POINT(2.176944 41.3825),Llorens,,
+Varios_434,s.a.,24,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_435,s.a.,16,Madrid,POINT(-3.7025 40.416667),Hernando,,
+Varios_436,s.a.,32,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_437,s.a.,24,Madrid,POINT(-3.7025 40.416667),Hernando,,
+Varios_438,s.a.,32,Madrid,POINT(-3.7025 40.416667),M. Minuesa,,
+Varios_439,s.a.,16,Madrid,POINT(-3.7025 40.416667),Hernando,,
+Varios_440,s.a.,32,Madrid,POINT(-3.7025 40.416667),José María Marés,,
+Varios_441,s.a.,16,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_442,s.a.,32,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_443,1772-01-01,24,Murcia,POINT(-1.130278 37.986111),Francisco Benedito,,
+Varios_444,1772-01-01,24,Murcia,POINT(-1.130278 37.986111),Francisco Benedito,,
+Varios_445,1781-01-01,24,Madrid,POINT(-3.7025 40.416667),Manuel Martí,,
+Varios_446,1779-01-01,24,Madrid,POINT(-3.7025 40.416667),Manuel Martí,,
+Varios_447,s.a.,32,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_448,s.a.,24,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_449,s.a.,32,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_450,1884-01-01,20,Barcelona,POINT(2.176944 41.3825),J. Jesús,,
+Varios_451,s.a.,24,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_182,s.a.,8,Madrid,POINT(-3.7025 40.416667),Hernando,,
+Varios_452,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_453,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_454,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_455,s.a.,24,Madrid,POINT(-3.7025 40.416667),Sucesores de Hernando,,
+Varios_456,s.a.,4,Barcelona,POINT(2.176944 41.3825),Llorens,,
+Varios_457,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_458,s.a.,4,s.l.,,s.n.,,
+Varios_459,s.a.,4,Barcelona,POINT(2.176944 41.3825),Llorens,,
+Varios_460,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_461,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_462,s.a.,4,Barcelona,POINT(2.176944 41.3825),Cristina Segura,,
+Varios_463,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_464,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_465,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_466,s.a.,8,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_467,s.a.,8,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_468,s.a.,4,Barcelona,POINT(2.176944 41.3825),El Abanico,,
+Varios_469,s.a.,4,Murcia,POINT(-1.130278 37.986111),La imprenta de Sellés,,
+BCN_001,s.a.,4,Barcelona,POINT(2.176944 41.3825),Juan Jolis,1,
+BCN_002,s.a.,4,Barcelona,POINT(2.176944 41.3825),Juan Jolis,2,
+BCN_003,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,1,
+BCN_004,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,2,
+BCN_005,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,2,
+BCN_006,s.a.,4,Barcelona,POINT(2.176944 41.3825),Juan Jolis,3,
+BCN_007,s.a.,8,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,1,
+BCN_008,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,1,
+BCN_009,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,1,
+BCN_010,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,1,
+BCN_011,s.a.,8,Barcelona,POINT(2.176944 41.3825),s.n.,1,
+BCN_012,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,1,
+BCN_013,s.a.,4,Barcelona,POINT(2.176944 41.3825),Juan Jolis,3,
+BCN_014,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,2,
+BCN_015,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,1,
+BCN_016,s.a.,8,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,2,
+BCN_017,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,3,
+BCN_018,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,2,
+BCN_019,s.a.,8,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,1,
+BCN_020,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,1,
+BCN_021,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,3,
+BCN_022,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,3,
+BCN_023,s.a.,4,Barcelona,POINT(2.176944 41.3825),s.n.,2,
+BCN_024,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de Juan Jolis,2,
+BCN_025,s.a.,4,Barcelona,POINT(2.176944 41.3825),Bernardo Pla,1,
+BCN_026,s.a.,8,Barcelona,POINT(2.176944 41.3825),Bernardo Pla,3,
+BCN_027,s.a.,8,Barcelona,POINT(2.176944 41.3825),Bernardo Pla,3,
+BCN_028,s.a.,4,Barcelona,POINT(2.176944 41.3825),La Viuda Pla,2,
+BCN_029,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,1,
+BCN_030,s.a.,8,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,3,
+BCN_031,s.a.,8,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,3,
+BCN_032,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,3,
+BCN_033,s.a.,8,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,2,
+BCN_034,s.a.,8,Barcelona,POINT(2.176944 41.3825),s.n.,3,
+BCN_035,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,2,
+BCN_036,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,1,
+BCN_037,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,1,
+BCN_038,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,1,
+BCN_039,s.a.,8,Barcelona,POINT(2.176944 41.3825),s.n.,3,
+BCN_040,s.a.,8,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,3,
+BCN_041,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,1,
+BCN_042,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,1,
+BCN_043,s.a.,4,Barcelona,POINT(2.176944 41.3825),s.n.,2,
+BCN_044,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,3,
+BCN_045,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,3,
+BCN_046,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,1,
+BCN_047,s.a.,8,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,3,
+BCN_048,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,3,
+BCN_049,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,2,
+BCN_050,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,2,
+BCN_051,1834-01-01,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,1,
+BCN_052,1844-01-01,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,1,
+BCN_053,1848-01-01,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,1,
+BCN_054,s.a.,4,Barcelona,POINT(2.176944 41.3825),s.n.,1,
+BCN_055,s.a.,4,Barcelona,POINT(2.176944 41.3825),s.n.,1,
+BCN_056,s.a.,4,Barcelona,POINT(2.176944 41.3825),s.n.,1,
+BCN_057,s.a.,4,Barcelona,POINT(2.176944 41.3825),s.n.,1,
+BCN_058,s.a.,4,Barcelona,POINT(2.176944 41.3825),s.n.,4,
+BCN_059,s.a.,4,Barcelona,POINT(2.176944 41.3825),s.n.,4,
+BCN_060,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,1,
+BCN_061,s.a.,4,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,1,
+BCN_062,s.a.,4,Barcelona,POINT(2.176944 41.3825),s.n.,2,
+BCN_063,s.a.,8,Barcelona,POINT(2.176944 41.3825),Los herederos de la Viuda Pla,6,
+BCN_064,s.a.,4,Barcelona,POINT(2.176944 41.3825),s.n.,3,
+BCN_065,s.a.,4,Barcelona,POINT(2.176944 41.3825),s.n.,1,
+Carmona_001,1880-01-01,4,Carmona,POINT(-5.642222 37.471111),La Aurora,1,
+Carmona_002,1870-01-01,4,Madrid,POINT(-3.7025 40.416667),s.n.,1,
+Carmona_003,s.a.,8,s.l.,,s.n.,1,
+Carmona_004,1878-01-01,4,Carmona,POINT(-5.642222 37.471111),La Aurora,2,
+Carmona_005,1856-01-01,4,Madrid,POINT(-3.7025 40.416667),s.n.,1,
+Carmona_006,s.a.,2,s.l.,,s.n.,2,
+Carmona_007,1860-01-01,4,Madrid,POINT(-3.7025 40.416667),José María Marés,3,
+Carmona_008,s.a.,4,s.l.,,s.n.,3,
